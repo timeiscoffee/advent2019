@@ -46,4 +46,4 @@ intersects.forEach(intersect=>{
 }
 );
 
-console.log(smallest);
+console.log(smallest); // -2 the smallest in arr b/c indexOf
